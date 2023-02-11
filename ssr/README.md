@@ -40,3 +40,7 @@ npm run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+## 参考
+- [Nuxt 3 を Google App Engine 本番環境 で SSR + キャッシュ運用してみる](https://zenn.dev/ytr0903/articles/81c8bed9a60702)
