@@ -8,6 +8,7 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "dayjs": "^1.11.7",
     "nuxt": "^3.1.2"
   }
 }
